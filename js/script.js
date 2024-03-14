@@ -1,6 +1,4 @@
-/**
- * @author Untoldcoding <vishaltewatiawork@gmail.com>
- */
+
 (function ($) {
   "use strict";
   $(".untoldcoding-falling").sakura("start", {
